@@ -1,0 +1,40 @@
+#nav ul { 
+	margin: 0 auto 0 auto; 
+	padding: 30px; 
+	list-style-type: none; 
+	text-align: left; 
+	background-color: #3399ff; 
+	overflow:hidden;
+	width:100%;
+	} 
+ 
+#nav ul li {  
+	display: inline; 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	} 
+ 
+#nav ul li a { 
+	color: #fff; 
+	} 
+ 
+#nav ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+	} 
+ 
+#header {
+	margin: 0 auto 0 auto;
+	padding:40px;
+    background-color:#ff6600;
+    width:100%;
+    overflow:hidden;
+    text-align: center;
+}
+body {
+	font-family: helvetica;
+}
+#mainbody {
+	border: 1px solid black;
+	height:80%;
+}
